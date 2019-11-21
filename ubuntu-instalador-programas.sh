@@ -51,6 +51,7 @@ sudo snap install slack --classic
 sudo snap install telegram-desktop
 sudo snap install code --classic
 sudo snap install insomnia
+sudo snap install ubuntu-make --classic
 # ---------------------------------------------------------------------- #
 
 # ----------------------------- PÓS-INSTALAÇÃO ----------------------------- #
